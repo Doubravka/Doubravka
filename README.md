@@ -6,7 +6,6 @@ I enjoy when code improves interaction with world, be it data processing and ana
 
     
 - 🐛 I'm currently learning TypeScript, React, Node.js, HTML, CSS, SQL and how to use them all
-- 🐝 I'm working on my new React project!
 
 - 🦗 doubravka.mail@gmail.com
 
